@@ -30,26 +30,26 @@ I design and build production-ready **SaaS platforms, CRM systems, AI-powered to
 
 ## 🚀 Core Expertise
 
-✅ SaaS product development
-✅ CRM and workflow automation
-✅ AI chatbot and smart suggestion features
-✅ Admin dashboards and business portals
-✅ Email campaign automation and SMTP workflows
-✅ Booking, billing, invoice, and payment systems
-✅ Real-time chat, file sharing, and notifications
-✅ API integrations and scalable backend systems
+* 🏗️ SaaS product development
+* 🔄 CRM and workflow automation
+* 🤖 AI chatbot and smart suggestion features
+* 📊 Admin dashboards and business portals
+* 📧 Email campaign automation and SMTP workflows
+* 💳 Booking, billing, invoice, and payment systems
+* 💬 Real-time chat, file sharing, and notifications
+* 🔐 API integrations and scalable backend systems
 
 ---
 
 ## ⭐ Why Choose Me
 
-✅ I understand business requirements before writing code
-✅ I build complete systems, not just user interfaces
-✅ I focus on scalable architecture and long-term maintainability
-✅ I write clean, structured, and production-ready code
-✅ I can handle frontend, backend, APIs, databases, and deployment
-✅ I care about security, performance, and product stability
-✅ I use modern AI-assisted tools to improve development speed and code quality
+* 🧠 I understand business requirements before writing code
+* 🏢 I build complete systems, not just user interfaces
+* 🧱 I focus on scalable architecture and long-term maintainability
+* 🧼 I write clean, structured, and production-ready code
+* ⚙️ I can handle frontend, backend, APIs, databases, and deployment
+* 🛡️ I care about security, performance, and product stability
+* 🚀 I use modern AI-assisted tools to improve development speed and code quality
 
 ---
 
