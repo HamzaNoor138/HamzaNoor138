@@ -9,22 +9,22 @@ I design and build production-ready **SaaS platforms, CRM systems, AI-powered to
 
 ## 💫 About Me
 
-🔭 Building scalable **SaaS, CRM, ERP, and automation platforms**
-⚙️ Focused on **clean architecture, secure APIs, and maintainable code**
-🤖 Experienced in **AI integrations, chatbots, smart suggestions, and workflow automation**
-🧩 Strong understanding of **business logic, system design, and product development**
-💬 Skilled in **React, Next.js, Node.js, REST APIs, CRM systems, and SaaS architecture**
+* 🔭 Building scalable **SaaS, CRM, ERP, and automation platforms**
+* ⚙️ Focused on **clean architecture, secure APIs, and maintainable code**
+* 🤖 Experienced in **AI integrations, chatbots, smart suggestions, and workflow automation**
+* 🧩 Strong understanding of **business logic, system design, and product development**
+* 💬 Skilled in **React, Next.js, Node.js, REST APIs, CRM systems, and SaaS architecture**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, shadcn/ui
-**Backend:** Node.js, Express.js, FastAPI, REST APIs, Authentication, RBAC
-**Databases:** MongoDB, PostgreSQL, Firebase
-**CMS:** Strapi, Payload CMS
-**Mobile:** React Native, Flutter
-**AI & Tools:** Cursor, Claude Code, Lovable, GitHub Actions, Vercel, AWS, Postman
+* 🎨 **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+* ⚙️ **Backend:** Node.js, Express.js, FastAPI, REST APIs, Authentication, RBAC
+* 🗄️ **Databases:** MongoDB, PostgreSQL, Firebase
+* 🧱 **CMS:** Strapi, Payload CMS
+* 📱 **Mobile:** React Native, Flutter
+* 🤖 **AI & Tools:** Cursor, Claude Code, Lovable, GitHub Actions, Vercel, AWS, Postman
 
 ---
 
