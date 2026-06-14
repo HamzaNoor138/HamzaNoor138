@@ -2,7 +2,7 @@
 
 📫 **Email:** [hamzanoor438446@gmail.com](mailto:hamzanoor438446@gmail.com)
 
-Hi, I'm **Muhammad Hamza Noor** 👋
+Hi, I'm **Zaid** 👋
 I design and build production-ready **SaaS platforms, CRM systems, AI-powered tools, workflow automation systems, admin dashboards, and scalable web applications** for real business operations.
 
 ---
